@@ -1,0 +1,15 @@
+{
+    "name": "mia3/graphql",
+    "authors": [
+        {
+            "name": "Marc Neuhaus",
+            "email": "marc@mia3.com"
+        }
+    ],
+    "autoload-dev": {
+        "psr-4": {
+            "MIA3\\GraphQL\\": "src/"
+        }
+    },
+    "require": {}
+}
